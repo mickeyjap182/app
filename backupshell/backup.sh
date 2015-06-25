@@ -591,7 +591,7 @@ function choose_take_mbr() {
                     break 
                 fi 
                 echo ""
-                echo "Notice:${where_does_take} は存在しません。"
+                echo "Notice:${where_does_take} is not found"
                 echo ""
             done
         done
